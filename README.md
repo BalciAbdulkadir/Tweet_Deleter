@@ -58,6 +58,11 @@ This repository contains advanced cleanup tools that run directly via your brows
 
 > **💡 Pro Tip:** To stop the script at any time, simply **refresh the page** (F5).
 
+## 📜 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+
 ---
 
 <a name="-türkçe"></a>
